@@ -14,6 +14,11 @@ namespace ConsoleTheater.Models
       Showtimes.Add(time, MaxSeats);
     }
 
+    public bool ValidShowTime(string time)
+    {
+      return Showtimes.ContainsKey(time);
+    }
+
     public void PrintShowtimes()
     {
       foreach (KeyValuePair<string, int> showtime in Showtimes)

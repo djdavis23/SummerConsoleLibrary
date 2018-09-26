@@ -681,30 +681,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\BoiseCodeWorks\\.nuget\\packages\\": {},
+    "C:\\Users\\dcaa2\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BoiseCodeWorks\\source\\CodeWorks\\summer18\\ConsoleTheater\\ConsoleTheater.csproj",
+      "projectUniqueName": "c:\\source\\codeworks\\week-10-projects\\SummerConsoleLibrary\\ConsoleTheater.csproj",
       "projectName": "ConsoleTheater",
-      "projectPath": "C:\\Users\\BoiseCodeWorks\\source\\CodeWorks\\summer18\\ConsoleTheater\\ConsoleTheater.csproj",
-      "packagesPath": "C:\\Users\\BoiseCodeWorks\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BoiseCodeWorks\\source\\CodeWorks\\summer18\\ConsoleTheater\\obj\\",
+      "projectPath": "c:\\source\\codeworks\\week-10-projects\\SummerConsoleLibrary\\ConsoleTheater.csproj",
+      "packagesPath": "C:\\Users\\dcaa2\\.nuget\\packages\\",
+      "outputPath": "c:\\source\\codeworks\\week-10-projects\\SummerConsoleLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\BoiseCodeWorks\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\dcaa2\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
